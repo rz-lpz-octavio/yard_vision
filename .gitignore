@@ -1,0 +1,12 @@
+.env
+dataset/
+data/
+*.jpg
+*.png
+*.mp4
+*.pt
+*.onnx
+runs/
+venv/
+__pycache__/
+*.pyc
